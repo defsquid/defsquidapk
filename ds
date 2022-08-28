@@ -3,7 +3,7 @@
 "version_on_server": "130",
 "update_downloadUrl": "https://apk.defsquid.com/",
 "adConfig": {
-        "tutUrl": "affiliateLink",
+        "tutUrl": "link",
         "packageName": "com.com.com",
         "downloadUrl": "",
         "title": "Do you already have?",
