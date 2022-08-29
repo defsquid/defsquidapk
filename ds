@@ -6,7 +6,7 @@
         "tutUrl": "https://www.ipvanish.com/",
         "packageName": "com.dod.safetydot",
         "title": "Do You Take Your VPN Security Seriously?",
-        "description": "Always use the VPNSafetyDot app, which tells you whether you are protected & anonymous online by displaying your <strong>VPN</strong> and <strong>Privacy</strong> status in the top right corner of your screen."
+        "description": "<p style="font-size: large;" >Always use the VPNSafetyDot app, which tells you whether you are protected & anonymous online by displaying your <strong>VPN</strong> and <strong>Privacy</strong> status in the top right corner of your screen.</p>"
     },
 "config": "ewogICJzaG93U2Nhbm5lciIgOiB0cnVlLAogICJpc1NlcnZlciI6IHRydWUsCiAgImNsaWVudFNjYW5VUkwiOiAiaHR0cHM6Ly93d3cudmlydXN0b3RhbC5jb20iLAogICJpbmRleCIgOiAwLAogICJsb2NrRjEiOiBmYWxzZSwKICAibG9ja0YyIjogZmFsc2UsCiAgImxvY2tGMyI6IGZhbHNlLAogICJsb2NrRjQiOiBmYWxzZSwKICAibG9ja0Y1IjogZmFsc2UsCiAgImxvY2tGNiI6IGZhbHNlCn0="
 }
