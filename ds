@@ -4,7 +4,7 @@
 "update_downloadUrl": "https://apk.defsquid.com/",
 "config": "ewogICJzaG93U2Nhbm5lciIgOiB0cnVlLAogICJpc1NlcnZlciI6IHRydWUsCiAgImNsaWVudFNjYW5VUkwiOiAiaHR0cHM6Ly93d3cudmlydXN0b3RhbC5jb20iLAogICJpbmRleCIgOiAwLAogICJsb2NrRjEiOiBmYWxzZSwKICAibG9ja0YyIjogZmFsc2UsCiAgImxvY2tGMyI6IGZhbHNlLAogICJsb2NrRjQiOiBmYWxzZSwKICAibG9ja0Y1IjogZmFsc2UsCiAgImxvY2tGNiI6IGZhbHNlCn0=",
 "adConfig": {    
-  "tutUrl": "https://vpnsafetydot.com/?v=defs", 
+  "tutUrl": "https://vpnsafetydot.com/?aff=defs", 
   "packageName": "com.dod.safetydot",
   "title": "DETECT UNEXPECTED VPN CRASHES",
   "description": "Even the slightest connection loss or security hole in your VPN can seriously compromise your security and privacy. As a result, sensitive live data, logs and traces can be transmitted to the Internet within seconds. The VPNSafetyDot VPN Monitoring tool comes to the rescue!"
