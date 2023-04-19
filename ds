@@ -16,5 +16,12 @@
     "title": "Don't Rely Solely on Results",
     "description": "New AI algorithms enable hackers and spies to potentially install malicious software on your devices undetected by virus scanners. \n\n To increase your level of protection, we highly recommend utilizing \n\n VPNSafetyDots's \n ⚠️Spyware Protection⚠️ \n\n and running it daily.",
     "downloadUrl": "https://getsafetydot.com/"
-  }
+  },
+   "installerConfig6": {
+  "appName": "VPNSafetyDot",
+  "packageName": "com.dod.safetydot",
+  "title": "Install the VPNSafetyDot app first",
+  "description": "To determine unexpected VPN terminations during the test, you must have the VPNSafetyDot app installed as a prerequisite.",
+  "downloadUrl": "https://getsafetydot.com/"
+}
 }
