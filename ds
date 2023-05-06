@@ -9,12 +9,5 @@
     "packageName": "com.dod.safetydot",
     "title": "DETECT UNEXPECTED VPN CRASHES",
     "description": "Even the slightest connection loss or security hole in your VPN can seriously compromise your security and privacy. As a result, sensitive live data, logs and traces can be transmitted to the Internet within seconds. The VPNSafetyDot VPN Monitoring tool comes to the rescue!"
-  },
-  "installerConfig3": {
-    "appName": "VPNSafetyDot",
-    "packageName": "com.dod.safetydot",
-    "title": "Don't Rely Solely on Results",
-    "description": "New AI algorithms enable hackers and spies to potentially install malicious software on your devices undetected by virus scanners. \n\n To increase your level of protection, we highly recommend utilizing \n\n VPNSafetyDots's \n ⚠️Spyware Protection⚠️ \n\n and running it daily.",
-    "downloadUrl": "https://getsafetydot.com/"
   }
 }
